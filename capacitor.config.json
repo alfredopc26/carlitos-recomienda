@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Carlitos recomienda",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
